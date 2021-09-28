@@ -20,7 +20,6 @@ Passionate about creating custom software or tools to fullfill a customer or cli
 ### C++
 ### Matlab
 
-|----------------------------------------------------------------------------------------------------------------------------------------------------|
 ## Blog Posts
 
 ### 2020-07-18 - [Generate fresh AWS S3 urls when accessing uploaded files in Django](https://towardsaws.com/generating-fresh-aws-s3-urls-when-accessing-uploaded-files-in-django-37939e89114a)
